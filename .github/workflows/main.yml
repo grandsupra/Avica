@@ -1,4 +1,4 @@
-ame: Avica
+name: Avica
 
 on:
   workflow_dispatch:
